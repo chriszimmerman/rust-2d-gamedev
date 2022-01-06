@@ -3,5 +3,6 @@
     PlayerTurn,
     MonsterTurn,
     GameOver,
-    Victory
+    Victory,
+    NextLevel
 }
